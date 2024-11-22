@@ -1,5 +1,6 @@
-Group5, CS779
-AdMIRe, SemEval 2025
+Group 5, CS779
+
+AdMIRe, Task 1, SemEval 2025
 
 This repository contains the codes used for the Task 1, SemEval 2025
 
