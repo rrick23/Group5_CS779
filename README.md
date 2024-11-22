@@ -4,9 +4,9 @@ AdMIRe, SemEval 2025
 This repository contains the codes used for the Task 1, SemEval 2025
 
 To run the codes 
-i. Copy these notebooks onto Kaggle.
-ii. Search for 'semeval' dataset, it's author is 'Gajengi Rishi' and import it as input to the notebook.
-iii. Then turn on 'GPU' from accelerator in settings for faster computation.
+1. Copy these notebooks onto Kaggle.
+2. Search for 'semeval' dataset, it's author is 'Gajengi Rishi' and import it as input to the notebook.
+3. Then turn on 'GPU' from accelerator in settings for faster computation.
 
 These models are uploaded:
 1. CLIP, ViT-Base-Patch32
