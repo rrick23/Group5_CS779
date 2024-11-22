@@ -1,11 +1,11 @@
-Group 5, CS779
+#**Group 5, CS779**
 
-AdMIRe, Task 1, SemEval 2025
+**AdMIRe, Task 1, SemEval 2025**
 
 This repository contains the codes used for the Task 1, SemEval 2025
 
 To run the codes 
-1. Copy these notebooks onto Kaggle.
+1. Copy these notebooks onto Kaggle and run them on it.
 2. Search for 'semeval' dataset, it's author is 'Gajengi Rishi' and import it as input to the notebook.
 3. Then turn on 'GPU' from accelerator in settings for faster computation.
 
